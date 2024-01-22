@@ -28,4 +28,4 @@ console.log(gameName.__proto__);
 
 const url ="https://taheran.com/pathan%20taherankhan"
 console.log(url.replace('%20','-'));
- 
+  
