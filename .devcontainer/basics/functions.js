@@ -18,6 +18,6 @@ function logInUserMessage(username) {
    // console.log(logInUserMessage());       
 
 function calculateCartPrice(...num1) {
-    return num1;
+    return  num1;
 }
 console.log(calculateCartPrice(200,400,500));
