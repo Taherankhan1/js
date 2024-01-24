@@ -12,3 +12,7 @@ marks_class_12[0] = 96 // Changing the value of an array
 console.log(marks_class_12)
 console.log(typeof marks_class_12)
 
+for (var i = 0; i < marks_class_12.length; i++) {
+    const element = marks_class_12[i];
+    console.log(element);
+}
